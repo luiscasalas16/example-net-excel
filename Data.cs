@@ -1,7 +1,7 @@
 ﻿using Bogus;
 using System.Data;
 
-namespace example_net_openxml_excel
+namespace example_net_excel
 {
     internal static class Data
     {

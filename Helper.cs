@@ -3,7 +3,7 @@ using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
 using System.Data;
 
-namespace example_net_openxml_excel
+namespace example_net_excel
 {
     internal class Helper
     {

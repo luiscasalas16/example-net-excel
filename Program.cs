@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace example_net_openxml_excel
+namespace example_net_excel
 {
     class Program
     {
