@@ -1,4 +1,4 @@
-# net-excel
+# example-net-excel
 
 Proyecto de ejemplo de lectura y escritura de archivo excel, utilizando DocumentFormat.OpenXml.
 
